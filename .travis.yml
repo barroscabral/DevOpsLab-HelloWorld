@@ -21,4 +21,8 @@ deploy:
   provider: heroku
   api-key: 
     secure: API_KEY
+    on:
+      tags: true
+       all_branches: true
+       
   app: devopslabstrainning
