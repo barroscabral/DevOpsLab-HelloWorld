@@ -5,7 +5,7 @@ language: python
 python:
   - "3.6.3"
 
-# Faz a instalação com Sudo, para ter privilégio de Super Usuário.
+# Faz a instalação com Sudo, para ter privilégio de Super aUsuário.
 sudo: required
 
 # Instalação de Módulos que são necessários para a Aplicação.
